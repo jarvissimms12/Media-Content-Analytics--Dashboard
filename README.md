@@ -6,7 +6,7 @@
 An interactive, fully filterable BI dashboard built to demonstrate real-world Business Intelligence Analyst skills — the kind of work done at companies like Hearst Magazines, Share Local Media, and other data-driven media organizations.
 ---
 🖥️ Live Demo
-> **[Launch Dashboard →](https://share.streamlit.io/jarvissimms12/media-content-analytics-dashboard)**  
+> **[Launch Dashboard →]([https://share.streamlit.io/jarvissimms12/media-content-analytics-dashboard](https://media-content-analytics--dashboard-ykhuyt9siqectqqde5ezch.streamlit.app/))**  
 > *Deployed on Streamlit Cloud — no installation required*
 ---
 📸 Dashboard Preview
