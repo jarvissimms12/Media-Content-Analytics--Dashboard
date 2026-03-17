@@ -10,7 +10,7 @@ An interactive, fully filterable BI dashboard built to demonstrate real-world Bu
 > *Deployed on Streamlit Cloud — no installation required*
 ---
 📸 Dashboard Preview
-![Dashboard Screenshot](assets/dashboard_preview.png)
+![Dashboard Screenshot](Media-Content-Analytics--Dashboard/dashboard_preview.png)
 ---
 🎯 What This Dashboard Demonstrates
 Skill	Implementation
