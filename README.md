@@ -9,9 +9,6 @@ An interactive, fully filterable BI dashboard built to demonstrate real-world Bu
 > **[Launch Dashboard →]([[https://share.streamlit.io/jarvissimms12/media-content-analytics-dashboard](https://media-content-analytics--dashboard-ykhuyt9siqectqqde5ezch.streamlit.app/))](https://media-content-analytics--dashboard-ykhuyt9siqectqqde5ezch.streamlit.app/)**  
 > *Deployed on Streamlit Cloud — no installation required*
 ---
-📸 Dashboard Preview
-![Dashboard Screenshot](Media-Content-Analytics--Dashboard/dashboard_preview.png)
----
 🎯 What This Dashboard Demonstrates
 Skill	Implementation
 KPI Tracking	5 live metrics with period-over-period delta comparisons
