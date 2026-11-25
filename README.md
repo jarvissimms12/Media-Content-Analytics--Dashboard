@@ -1,12 +1,14 @@
-📊 Media Content Analytics Dashboard
+# 📊 Media Content Analytics Dashboard
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-FF4B4B?logo=streamlit)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive-3F4F75?logo=plotly)
 ![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit%20Cloud-FF4B4B)
 An interactive, fully filterable BI dashboard built to demonstrate real-world Business Intelligence Analyst skills — the kind of work done at companies like Hearst Magazines, Share Local Media, and other data-driven media organizations.
+
+> **Data note:** the article-level data is **simulated** in `app.py` (`np.random.seed(42)`) to demonstrate BI dashboard design. It does not describe any real publication's traffic or revenue.
 ---
 🖥️ Live Demo
-> **[Launch Dashboard →]([[https://share.streamlit.io/jarvissimms12/media-content-analytics-dashboard](https://media-content-analytics--dashboard-ykhuyt9siqectqqde5ezch.streamlit.app/))](https://media-content-analytics--dashboard-ykhuyt9siqectqqde5ezch.streamlit.app/)**  
+> **[Launch Dashboard →](https://media-content-analytics--dashboard-ykhuyt9siqectqqde5ezch.streamlit.app/)**  
 > *Deployed on Streamlit Cloud — no installation required*
 ---
 🎯 What This Dashboard Demonstrates
@@ -60,8 +62,7 @@ The dashboard will open at `http://localhost:8501`
 media-content-analytics-dashboard/
 ├── app.py                  # Main Streamlit dashboard
 ├── requirements.txt        # Python dependencies
-├── assets/
-│   └── dashboard_preview.png
+├── dashboard_preview.png    # Screenshot
 └── README.md
 ```
 ---
