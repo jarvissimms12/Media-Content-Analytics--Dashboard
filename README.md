@@ -6,6 +6,16 @@
 An interactive, fully filterable BI dashboard built to demonstrate real-world Business Intelligence Analyst skills — the kind of work done at companies like Hearst Magazines, Share Local Media, and other data-driven media organizations.
 
 > **Data note:** the article-level data is **simulated** in `app.py` (`np.random.seed(42)`) to demonstrate BI dashboard design. It does not describe any real publication's traffic or revenue.
+
+## Summary
+
+| | |
+|---|---|
+| **Question** | What would a newsroom BI dashboard need to answer: which content, sources and days drive views, engagement and revenue? |
+| **Data** | Simulated article-level records (`np.random.seed(42)`): category, traffic source, region, views, visitors, time on page, engagement and revenue |
+| **Method** | Streamlit + Plotly: five KPI tiles with period-over-period deltas, weekly trend, category and source breakdowns, day-of-week timing, a category × source revenue heatmap and a top-10 table, all driven by sidebar filters |
+| **Result** | A deployed, filterable dashboard ([live demo](https://media-content-analytics--dashboard-ykhuyt9siqectqqde5ezch.streamlit.app/)). The numbers are simulated, so the result is the design and interaction, not a finding about any publisher. |
+| **Takeaway** | Shows dashboard design and stakeholder-facing BI. For the same skills on real data, see the [state-of-nyc](https://github.com/jarvissimms12/state-of-nyc) dashboard. |
 ---
 🖥️ Live Demo
 > **[Launch Dashboard →](https://media-content-analytics--dashboard-ykhuyt9siqectqqde5ezch.streamlit.app/)**  
